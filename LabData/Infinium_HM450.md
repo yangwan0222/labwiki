@@ -46,7 +46,7 @@ Peripheral blood leukocytes from healthy children. 78 samples, 485577 probes. Co
 
 #### GSE129364
 
-72 FFPE primary colorectal adenoma without recurrence (n=30), primary adenoma with recurrence at the same location (n=19), so-called “matched pair samples” (n=10; comprising the primary adenoma and the recurrent adenoma) and normal mucosa specimens (n=3). IDATs available.
+72 FFPE primary colorectal adenoma without recurrence (n=30), primary adenoma with recurrence at the same location (n=29), so-called “matched pair samples” (n=10; comprising the primary adenoma and the recurrent adenoma) and normal mucosa specimens (n=3). IDATs available.
 
 `~/zhou_lab/projects/20191212_GEO_datasets/GSE129364`
 
